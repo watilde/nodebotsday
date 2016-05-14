@@ -1,6 +1,6 @@
 # NodeBots Day 2016 for Tokyo, Japan!
 
- - Organizers: [@ega1979](https://twitter.com/ega1979i), [@n0bisuke](https://twitter.com/n0bisuke), [@watilde](https://twitter.com/watilde)
+ - Organizers: [@ega1979](https://twitter.com/ega1979), [@n0bisuke](https://twitter.com/n0bisuke), [@watilde](https://twitter.com/watilde)
  - Home Page: {Can be your ticket/event page}
  - Ticket Link: {TBD}
  - Location: {TBD}
